@@ -1,0 +1,58 @@
+## CHARACTER DESIGN ISSUES:
+
+- [ ] Create base character template - 32x32
+  - [ ] Create front, back, left, right views
+  - [ ] Define common elements (head size, body proportions)
+  - [ ] Make a basic walking animation template
+- [ ] Design Farm Family Characters
+  - [ ] Farmer Mother (Stefka) - practical clothing, tired but determined look
+  - [ ] Farmer Father (Petar) - work clothes, visible exhaustion
+  - [ ] Child (Misho) - playful appearance, aluminum hat prop
+  - [ ] Grandma (Penka) - traditional village clothing, storyteller pose
+  - [ ] Grandpa (Boris) - newspaper prop, minimal animation needs
+- [ ] Design Church Area Characters
+  - [ ] Priest (Father Metodii) - religious garments, growing confusion expressions
+  - [ ] Nomad Mother (Luna) - new-age style clothing, crystals
+  - [ ] Sun - bright, warm, and friendly appearance
+  - [ ] Star - contrasting outfits showing their personalities
+  - [ ] Church cat - cute, adorable appearance
+- Design Tavern Characters
+  - [ ] Bartender (Kalina) - warm smile, motherly appearance
+  - [ ] Two Drunkards (Kiro & Pesho) - similar but slightly different designs
+  - [ ] Create drinking animation states
+- [ ] Design School Characters
+  - [ ] Teacher (Missis Vasilka) - strict appearance, ruler prop
+  - [ ] Two Students (Ivan & Maria) - school uniforms, playful expressions
+  - [ ] Create school-related animations
+- [ ] Design Farm Animals
+  - [ ] Special Sheep (Donka) - needs enlightened variations
+  - [ ] Two Cows - similar but distinguishable
+
+
+## OBJECT DESIGN ISSUES:
+- [ ] Create tilesheet template - 16x16
+  - [ ] Define common elements (wall height, floor tiles)
+  - [ ] Create basic tileset elements
+    - [ ] Grass, dirt, stone, wood, metal, crops
+    - [ ] Night sky, day sky, clouds
+    - [ ] Basic decoration elements
+    - [ ] Create basic building elements
+- [ ] Create Building Exteriors
+  - [ ] Farm house and barn
+  - [ ] Church building
+  - [ ] School building
+  - [ ] Tavern building
+  - [ ] Basic decoration elements
+- [ ] Create Building Interiors
+  - [ ] Tavern building
+- [ ] Design phenomena objects
+  - [ ] UFO - light beam
+  - [ ] Crop circles variations
+  - [ ] Abduction effect - dream sequence visuals
+- [ ] Create UI elements
+  - [ ] Madness bar design
+  - [ ] Phenomenon selector icons
+  - [ ] Create UI elements
+- [ ] Create Logo and Menu Art
+  - [ ] Main menu elements
+- [ ] Random ghost sprites for opening scene
