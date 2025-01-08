@@ -7,7 +7,7 @@
 - [ ] Design Farm Family Characters
   - [x] Farmer Mother (Stefka) - practical clothing, tired but determined look
   - [x] Farmer Father (Petar) - work clothes, visible exhaustion
-  - [ ] Child (Misho) - playful appearance, aluminum hat prop
+  - [x] Child (Misho) - playful appearance, aluminum hat prop
   - [ ] Grandma (Penka) - traditional village clothing, storyteller pose
   - [ ] Grandpa (Boris) - newspaper prop, minimal animation needs
 - [ ] Design Church Area Characters
