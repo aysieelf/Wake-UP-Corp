@@ -1,12 +1,12 @@
 ## CHARACTER DESIGN ISSUES:
 
-- [ ] Create base character template - 32x32
-  - [ ] Create front, back, left, right views
-  - [ ] Define common elements (head size, body proportions)
-  - [ ] Make a basic walking animation template
+- [x] Create base character template - 32x32
+  - [x] Create front, back, left, right views
+  - [x] Define common elements (head size, body proportions)
+  - [x] Make a basic walking animation template
 - [ ] Design Farm Family Characters
-  - [ ] Farmer Mother (Stefka) - practical clothing, tired but determined look
-  - [ ] Farmer Father (Petar) - work clothes, visible exhaustion
+  - [x] Farmer Mother (Stefka) - practical clothing, tired but determined look
+  - [x] Farmer Father (Petar) - work clothes, visible exhaustion
   - [ ] Child (Misho) - playful appearance, aluminum hat prop
   - [ ] Grandma (Penka) - traditional village clothing, storyteller pose
   - [ ] Grandpa (Boris) - newspaper prop, minimal animation needs
@@ -21,7 +21,7 @@
   - [ ] Two Drunkards (Kiro & Pesho) - similar but slightly different designs
   - [ ] Create drinking animation states
 - [ ] Design School Characters
-  - [ ] Teacher (Missis Vasilka) - strict appearance, ruler prop
+  - [ ] Teacher (Rada) - strict appearance, ruler prop
   - [ ] Two Students (Ivan & Maria) - school uniforms, playful expressions
   - [ ] Create school-related animations
 - [ ] Design Farm Animals
